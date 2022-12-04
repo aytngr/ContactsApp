@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "77054110312",
+    "firebase_url": "https://egitim4-97455-default-rtdb.firebaseio.com",
+    "project_id": "egitim4-97455",
+    "storage_bucket": "egitim4-97455.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77054110312:android:79f037407b9f4b521069dd",
+        "android_client_info": {
+          "package_name": "com.example.contactsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77054110312-rg456qjdt2k76q81f97b6sp5648kjags.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMo9lJA5Dvfdn9tsrbfG4jgP7jIKH3cvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77054110312-rg456qjdt2k76q81f97b6sp5648kjags.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "77054110312-0s4k0sch0ful7an2esh7hdu9i7fg3smq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kisilerUygulamasi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
